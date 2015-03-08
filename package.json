@@ -44,7 +44,7 @@
     "oauth",
     "oauth.io",
     "oauthio",
-    "goappes",
+    "greenlizard",
     "plugin"
   ],
   "dependencies": {
@@ -63,15 +63,11 @@
   "maintainers": [
     {
       "name": "gabriel",
-      "email": "gabriel@goappes.com"
+      "email": "gabriel@greenlizard.com.br"
     },
     {
       "name": "joao",
-      "email": "joao@goappes.com"
-    },
-    {
-      "name": "italo",
-      "email": "italo@goappes.com"
+      "email": "joao@greenlizard.com.br"
     }
   ]
 }
