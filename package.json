@@ -69,5 +69,9 @@
       "name": "joao",
       "email": "joao@greenlizard.com.br"
     }
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:greenlizard/hoodie-plugin-oauthio.git"
+},
 }
